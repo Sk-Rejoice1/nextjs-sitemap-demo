@@ -5,7 +5,7 @@
 			https://example.com
 		</loc>
 		<lastmod>
-			2023-10-28T05:57:09.631Z
+			2023-10-28T06:16:00.952Z
 		</lastmod>
 		<changefreq>
 			daily
@@ -20,7 +20,7 @@
 			https://example.com/about
 		</loc>
 		<lastmod>
-			2023-10-28T05:57:09.631Z
+			2023-10-28T06:16:00.952Z
 		</lastmod>
 		<changefreq>
 			daily
@@ -29,5 +29,20 @@
 			0.7
 		</priority>
 		<link rel="alternate" hreflang="ja" href="https://example.jp/about" />
+	</url>
+	<url>
+		<loc>
+			https://example.com/contact-us
+		</loc>
+		<lastmod>
+			2023-10-28T06:16:00.952Z
+		</lastmod>
+		<changefreq>
+			daily
+		</changefreq>
+		<priority>
+			0.7
+		</priority>
+		<link rel="alternate" hreflang="ja" href="https://example.jp/contact-us" />
 	</url>
 </urlset>
